@@ -13,7 +13,8 @@
 /* Fonts */
 :root {
   --font-default: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-primary: "Amatic SC", sans-serif;
+  /* --font-primary: "Amatic SC", sans-serif; */
+  --font-primary:"Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-secondary: "Inter", sans-serif;
 }
 
@@ -264,8 +265,9 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 70px;
   margin-right: 6px;
+
 }
 
 .header .logo h1 {
@@ -1500,6 +1502,17 @@ section {
   color: var(--color-secondary);
   font-family: var(--font-primary);
 }
+
+.hero h2 .number{
+  color:red
+}
+
+.hero h2 .one{
+  color:#f8af30
+}
+
+
+
 
 .hero h2 span {
   color: var(--color-primary);

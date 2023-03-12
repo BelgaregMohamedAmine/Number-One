@@ -1,0 +1,68 @@
+{
+    "foods": [
+      {
+        "category": "Pizza",
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, onion, and pickles on a sesame seed bun.",
+        "price": 4.99
+      },
+      {
+        "category": "Pizza",
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A crispy crust topped with tomato sauce, mozzarella cheese, and slices of spicy pepperoni.",
+        "price": 12.99
+      },
+      {
+        "category": "Pizza",
+        "id": 3,
+        "name": "Beef Taco",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A soft corn tortilla filled with seasoned ground beef, lettuce, tomato, and shredded cheese.",
+        "price": 2.49
+      },
+      {
+        "category": "Pizza",
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, onion, and pickles on a sesame seed bun.",
+        "price": 4.99
+      },
+      {
+        "category": "Pizza",
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A crispy crust topped with tomato sauce, mozzarella cheese, and slices of spicy pepperoni.",
+        "price": 12.99
+      },
+      {
+        "category": "Pizza",
+        "id": 3,
+        "name": "Beef Taco",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A soft corn tortilla filled with seasoned ground beef, lettuce, tomato, and shredded cheese.",
+        "price": 2.49
+      },
+      {
+        "category": "Fried Chicken",
+        "id": 4,
+        "name": "Crispy Fried Chicken Sandwich",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "A tender chicken breast coated in crispy breading and served on a toasted bun with lettuce, tomato, and mayonnaise.",
+        "price": 5.99
+      },
+      {
+        "category": "Salads",
+        "id": 5,
+        "name": "Grilled Chicken Caesar Salad",
+        "img": "assets/img/menu/menu-item-2.png",
+        "description": "Fresh romaine lettuce topped with grilled chicken, Parmesan cheese, croutons, and Caesar dressing.",
+        "price": 7.99
+      }
+    ]
+  }
