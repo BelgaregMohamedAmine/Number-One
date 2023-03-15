@@ -836,6 +836,7 @@ section {
   height: 100%;
   border: 0;
   border-bottom: 2px solid #b6b6bf;
+  
 }
 
 @media (max-width: 575px) {
@@ -848,6 +849,7 @@ section {
 .menu .nav-link i {
   padding-right: 15px;
   font-size: 48px;
+ 
 }
 
 .menu .nav-link h4 {
@@ -855,21 +857,34 @@ section {
   font-weight: 400;
   margin: 0;
   font-family: var(--font-secondary);
+  padding:0 15px; /*upd padding*/
+  
 }
+
+
 
 @media (max-width: 575px) {
   .menu .nav-link h4 {
     font-size: 16px;
   }
+
+  .Sandwiches-Classiques-size{
+    font-size: 30px !important;
+  }
 }
 
 .menu .nav-link:hover {
   color: var(--color-primary);
+
 }
 
 .menu .nav-link.active {
-  color: var(--color-primary);
-  border-color: var(--color-primary);
+  /* color: var(--color-primary);
+  border-color: var(--color-primary); */
+  background-color: var(--color-primary);
+  color: white;
+  border-radius:8px;
+  
 }
 
 .menu .tab-content .tab-header {
@@ -1572,8 +1587,9 @@ section {
   }
 
   .hero .btn-get-started,
-  .hero .btn-watch-video {
-    font-size: 14px;
+  .hero .btn-watch-video,
+  .hero .btn-book-a-table {
+    font-size: 10px !important;
   }
 }
 
